@@ -1,6 +1,6 @@
 require 'pry'
-require_relative '/Users/conormurnane/flatiron/code/phase1/ruby-oo-object-relationships-my-pets/lib/cat.rb'
-require_relative '/Users/conormurnane/flatiron/code/phase1/ruby-oo-object-relationships-my-pets/lib/dog.rb'
+require_relative '/Users/JakobPersons/Development/Flatiron/code/Phase_1/ruby-oo-object-relationships-my-pets/lib/cat.rb'
+require_relative '/Users/JakobPersons/Development/Flatiron/code/Phase_1/ruby-oo-object-relationships-my-pets/lib/dog.rb'
 
 
 class Owner
